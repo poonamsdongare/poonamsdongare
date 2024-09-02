@@ -42,6 +42,7 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-DC9B4E?logo=xgboost&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
 # Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
