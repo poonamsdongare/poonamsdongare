@@ -33,6 +33,23 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-DC9B4E?logo=xgboost&logoColor=white)
+# Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 
 ---
 
@@ -44,6 +61,9 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 <!--
 This is to get the total profile views we can add this later
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+this is to show the most used languages in github profile
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poonamsdongare&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
 **poonamsdongare/poonamsdongare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
