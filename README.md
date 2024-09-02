@@ -34,6 +34,12 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 
 ### :hammer_and_wrench: Languages and Tools :
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=poonamsdongare&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 
 <!--
 This is to get the total profile views we can add this later
