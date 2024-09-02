@@ -26,7 +26,12 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 - :zap: In my free time, I particpate in Kaggle competitions and read about the latest trends in machine learning and AI technologies
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-poonam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poonam-dongare/)
-  
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+
 <!--
 This is to get the total profile views we can add this later
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
