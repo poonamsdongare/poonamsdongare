@@ -58,12 +58,22 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 
 
 
+
 <!--
 This is to get the total profile views we can add this later
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 this is to show the most used languages in github profile
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poonamsdongare&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## This to show the blogs written
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 -->
 <!--
 **poonamsdongare/poonamsdongare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
