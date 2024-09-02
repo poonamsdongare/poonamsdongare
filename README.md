@@ -18,7 +18,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a software developer :computer: with 3+ years of experience in deploying machine learning and AI techniques for problem solving in automotive industry.
+I am a software engineer :computer: with 3+ years of experience in deploying machine learning and AI techniques for problem solving in automotive industry.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
