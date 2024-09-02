@@ -11,8 +11,7 @@
   </a>
 </div>
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there!
 </h1>
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG43MHhmeWp2Y2FiNXR3N2Rpang2ZThncXlrb2p5ZDJ4eWZlbDVtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="300"/>
@@ -21,7 +20,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a software engineer :computer: with 3+ years of experience in deploying machine learning and AI techniques for problem solving in automotive industry.
+I am a software engineer with 3+ years of experience in deploying machine learning and AI techniques for problem solving in automotive industry.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - 🎓 Pursuing Masters in Computer Science with specialization in AI and Machine learning at Georgia Institute of Technology.
@@ -32,7 +31,7 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages :
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -43,7 +42,7 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-DC9B4E?logo=xgboost&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
-# Tools
+### Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
@@ -61,7 +60,9 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 
 
 <!--
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 This is to get the total profile views we can add this later
+
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 this is to show the most used languages in github profile
