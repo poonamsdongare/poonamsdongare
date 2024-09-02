@@ -23,7 +23,7 @@ I am a software engineer :computer: with 3+ years of experience in deploying mac
 
 - 🎓 Pursuing Masters in Computer Science with specialization in AI and Machine learning at Georgia Institute of Technology.
 
-- :zap: In my free time, I particpate in Kaggle competitions and write blogs about the data analaysis and machine learning
+- :zap: In my free time, I particpate in Kaggle competitions and read about the latest trends in machine learning and AI technologies
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-poonam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poonam-dongare/)
   
