@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG43MHhmeWp2Y2FiNXR3N2Rpang2ZThncXlrb2p5ZDJ4eWZlbDVtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="300"/>
 </div>
 ---
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
